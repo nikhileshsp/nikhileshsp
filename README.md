@@ -64,5 +64,5 @@ This space showcases my projects and analyses, highlighting real-world problem-s
 
 ### 🌐 	Contact Book (SQL PYTHON) 
 **Technologies:** SQL PYTHON
-**Description:** Real-time sentiment analysis of social media posts using NLP  
+**Description:** Created a Contact Book application using Python and SQL integration. Utilized Python libraries such as sqlite3 to connect and interact with a SQL database, enabling storage, retrieval, updating, and deletion of contact details. The program supports functions like adding new contacts, searching by name or number, editing entries, and deleting records. SQL queries were embedded within Python code to perform operations efficiently, making the Contact Book dynamic and user-friendly for managing personal or professional contact information.   
 **[📁 View Repository](https://github.com/nikhileshsp/-Contact-Book-SQL-PYTHON-.git)**
