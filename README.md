@@ -34,7 +34,7 @@ This space showcases my projects and analyses, highlighting real-world problem-s
 
 | Category           | Tools & Skills |
 |--------------------|----------------|
-| Programming        | Python, SQL    |
+| Programming        | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)Python, SQL    |
 | Data Analysis      | Pandas, NumPy, Excel |
 | Data Visualization | Matplotlib, Seaborn, Power BI |
 | Version Control    | Git, GitHub    |
@@ -42,7 +42,6 @@ This space showcases my projects and analyses, highlighting real-world problem-s
 
 ---
 
----
 ## 📈 Featured Projects
 
 ### 🏪 	Car Rental Project (Python) 
