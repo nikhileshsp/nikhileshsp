@@ -25,7 +25,7 @@ This space showcases my projects and analyses, highlighting real-world problem-s
 - 🧠 Skilled in Python (Pandas, NumPy, Seaborn), SQL, Excel, and Power BI
 - 📊 Strong focus on EDA, data wrangling, and turning raw data into actionable insights
 - 🌐 Connect with me:
-  - [LinkedIn](https://www.linkedin.com/in/nikhileshspatil/)
+  - 🔗[LinkedIn](https://www.linkedin.com/in/nikhileshspatil/)
   - 📧 Email:nikhileshspatil@gmail.com
 
 ---
