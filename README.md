@@ -1,4 +1,18 @@
 # 📊 Data Analysis Portfolio by Nikhilesh Patil
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-blue?style=for-the-badge&logo=github)](https://github.com/nikhileshpatil)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikhileshspatil/)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nikhileshspatil@gmail.com)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)](https://www.r-project.org/)
+
+[![Profile Views](https://komarev.com/ghpvc/?username=nikhileshpatil&color=brightgreen&style=for-the-badge)](https://github.com/nikhileshpatil)
+[![GitHub Followers](https://img.shields.io/github/followers/nikhileshpatil?style=for-the-badge&logo=github)](https://github.com/nikhileshpatil)
+[![GitHub Stars](https://img.shields.io/github/stars/nikhileshpatil?style=for-the-badge&logo=github)](https://github.com/nikhileshpatil)
+
+</div>
 
 Welcome to my GitHub repository! I'm **Nikhilesh Patil**,
 A Data Analyst passionate about uncovering insights from data using tools like **Python**, **SQL**, **Pandas**, and **Matplotlib**. 
