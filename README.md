@@ -41,6 +41,14 @@ This space showcases my projects and analyses, highlighting real-world problem-s
 | Notebook Tools     | Jupyter Notebook, Google Colab |
 
 ---
+### 📋 Core Programming Languages
+
+| Language | Proficiency | Use Case | Key Libraries/Packages |
+|----------|------------|----------|------------------------|
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) **Python**  Data Analysis, Automation | pandas, numpy,Pandas, matplotlib, seaborn |
+| ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white) **SQL**  Database Queries, | MySQL,DBMS,RDBMS |
+| ![CoreJava](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) **CoreJava**  Java Programming |Liberary Math |
+---
 ## 📈 Featured Projects
 
 ### 🏪 	Car Rental Project (Python) 
