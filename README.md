@@ -41,4 +41,26 @@ This space showcases my projects and analyses, highlighting real-world problem-s
 | Notebook Tools     | Jupyter Notebook, Google Colab |
 
 ---
+## 📈 Featured Projects
 
+### 🏪 	Car Rental Project (Python) 
+**Technologies:** POWERBI 
+**Description:** Created a Power BI dashboard to analyze automotive sales across dealerships. Integrated vehicle models, sales, and regional data to visualize KPIs, revenue trends, and performance insights. Employed DAX for measures, slicers for interactivity, and visuals to support business decisions in marketing, inventory planning, and dealership strategy.
+
+  
+**[📁 View Repository](https:\github.com\nikhileshsp\Cars-and-Dealership-project.git)**
+
+### 🏥 	E-Commerce Data Analysis 
+**Technologies:** EXCEL
+**Description:** Utilized PowerBI to clean and preprocess the Ecommerce dataset, ensuring consistency and accuracy of the data. • Analysis various factors contributing to brand success, including customer reviews, ratings, discounts and maximum • To identify key drivers of Platform performance. • Generated actionable insights to inform marketing strategies and product development initiatives.    
+**[📁 View Repository](https://github.com/nikhileshsp/E-Commerce-Excel.git)**
+
+### 📊	BLINKIT STORE ANALYSIS(EXCEL) 
+**Technologies:** EXCEL
+**Description:** Analyzed large-scale retail sales data for BlinkIT, applying statistical techniques and data visualization to uncover product, location, and outlet-based sales trends. Generated actionable insights to support business decisions and drive sales optimization across diverse product categories and store types.
+**[📁 View Repository](https://github.com/nikhileshsp/BLINKIT.git)**
+
+### 🌐 	Contact Book (SQL PYTHON) 
+**Technologies:** SQL PYTHON
+**Description:** Real-time sentiment analysis of social media posts using NLP  
+**[📁 View Repository](https://github.com/nikhileshsp/-Contact-Book-SQL-PYTHON-.git)**
