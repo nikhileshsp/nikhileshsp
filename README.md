@@ -34,8 +34,8 @@ This space showcases my projects and analyses, highlighting real-world problem-s
 
 | Category           | Tools & Skills |
 |--------------------|----------------|
-| Programming        | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)Python, SQL    |
-| Data Analysis      | Pandas, NumPy, Excel |
+| Programming        | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white), ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)    |
+| Data Analysis      | ![Pandas](https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white), ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white), Excel |
 | Data Visualization | Matplotlib, Seaborn, Power BI |
 | Version Control    | Git, GitHub    |
 | Notebook Tools     | Jupyter Notebook, Google Colab |
