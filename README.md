@@ -35,11 +35,10 @@ This space showcases my projects and analyses, highlighting real-world problem-s
 | Category           | Tools & Skills |
 |--------------------|----------------|
 | Programming        | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white), ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)    |
-| Data Analysis      | ![Pandas](https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white), ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white),
-  |
-| Data Visualization | Matplotlib, Seaborn, Power BI |
-| Version Control    | Git, GitHub    |
-| Notebook Tools     | Jupyter Notebook, Google Colab |
+| Data Analysis      | ![Pandas](https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white), ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white),![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)|
+| Data Visualization | ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat), ![Seaborn](https://img.shields.io/badge/Seaborn-blue?style=flat), ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black) |
+| Version Control    | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white), ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)    |
+| Notebook Tools     | ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white), ![Google Colab](https://img.shields.io/badge/Google%20Colab-%23F9A825.svg?style=for-the-badge&logo=googlecolab&logoColor=white) |
 
 ---
 
