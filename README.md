@@ -25,9 +25,9 @@ This space showcases my projects and analyses, highlighting real-world problem-s
 - 🧠 Skilled in Python (Pandas, NumPy, Seaborn), SQL, Excel, and Power BI
 - 📊 Strong focus on EDA, data wrangling, and turning raw data into actionable insights
 - 🌐 Connect with me:
-  - 🔗[LinkedIn](https://www.linkedin.com/in/nikhileshspatil/)
+  - 🔗 [LinkedIn](https://www.linkedin.com/in/nikhileshspatil/)
   - 📧 Email:nikhileshspatil@gmail.com
-  - Resume  https://github.com/nikhileshsp/nikhileshsp/blob/c44f1e575500b01a20fe38ef747fb0b79393af15/Nikhilesh%20Subhash%20Patil_Data%20Analyst_Resume.docx
+  - 📝 Resume  https://github.com/nikhileshsp/nikhileshsp/blob/c44f1e575500b01a20fe38ef747fb0b79393af15/Nikhilesh%20Subhash%20Patil_Data%20Analyst_Resume.docx
 
 ---
 
