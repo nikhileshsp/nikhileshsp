@@ -27,7 +27,7 @@ This space showcases my projects and analyses, highlighting real-world problem-s
 - 🌐 Connect with me:
   - 🔗 [LinkedIn](https://www.linkedin.com/in/nikhileshspatil/)
   - 📧 Email:nikhileshspatil@gmail.com
-  - 📝 Resume  https://github.com/nikhileshsp/nikhileshsp/blob/c44f1e575500b01a20fe38ef747fb0b79393af15/Nikhilesh%20Subhash%20Patil_Data%20Analyst_Resume.docx
+  - 📝 Resume  https://github.com/nikhileshsp/nikhileshsp/blob/b75449596bc2d2253c92642f07ad5440e2f92d56/Nikhilesh%20Subhash%20Patil_Data%20Analyst_Freasher%20Resume.pdf
 
 ---
 
