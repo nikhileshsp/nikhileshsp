@@ -49,7 +49,7 @@ This space showcases my projects and analyses, highlighting real-world problem-s
 **Description:** Created a Power BI dashboard to analyze automotive sales across dealerships. Integrated vehicle models, sales, and regional data to visualize KPIs, revenue trends, and performance insights. Employed DAX for measures, slicers for interactivity, and visuals to support business decisions in marketing, inventory planning, and dealership strategy.
 
   
-**[📁 View Repository](https:\github.com\nikhileshsp\Cars-and-Dealership-project.git)**
+**[📁 View Repository](https://github.com/nikhileshsp/Cars-and-Dealership-project.git)**
 
 ### 🏥 	E-Commerce Data Analysis 
 **Technologies:** EXCEL
